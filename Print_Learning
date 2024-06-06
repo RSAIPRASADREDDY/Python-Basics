@@ -1,0 +1,8 @@
+#Learn all the way of print statement
+
+print("Sai Prasad Reddy")
+print('Sai Prasad Reddy')
+print('sai \'reddy\' prasad')   #Here BACK_SLASH ignore the single in between same applies for "" as well
+print('sai\n\'Prasad\'\nReddy') #BACK_SLASH \n represnt new line
+print("Sai"+"Prasad"+"Reddy")   #Concatinate multiplee strings
+print('sai\n\'Prasad\'\nReddy') #IndentationError: always code should be start at first or apply Indentation
