@@ -1,0 +1,11 @@
+'''
+print("Your Name Please?")  #Its just print, not taking any input
+
+input("Your Name Please?")  #input function take input values from user
+'''
+
+#######print ("Hello "+ input("Your Name Please?"))
+
+#to store those values to the any variable for better understanding
+Name=input("Your Name Please?")
+print("My Name Is :- "+ Name)   #pring can be concatinated
